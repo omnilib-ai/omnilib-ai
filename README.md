@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Omnilib Banner](https://via.placeholder.com/1200x300/2e3440/eceff4?text=Omnilib+-+AI-Powered+Knowledge+Management)
+![Omnilib Banner](./banner.png)
 
 **Modern, collaborative knowledge management platform with AI integration**
 
